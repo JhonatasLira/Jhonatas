@@ -1,0 +1,19 @@
+body{background-color: rgba(238, 143, 143, 0.511);}
+
+
+h1{background-color: rgb(86, 213, 190);}
+h1{text-align: center;}
+
+p{font-size: 30px;}
+
+img{border: 3px solid;
+margin: 5px;
+}
+table{margin: 25px;
+border: 25px;}
+
+table{border-collapse: collapse;width: 100%;}
+
+a{color: black;
+   
+}
